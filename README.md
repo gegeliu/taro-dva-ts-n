@@ -97,7 +97,7 @@ npm run tpl `文件名`
     │   │       └── service.ts     // 页面api
     │   ├── styles             // 样式文件
     │   ├── utils              // 常用工具类
-    │   ├── app.js             // 入口文件
+    │   ├── app.tsx             // 入口文件
     │   └── index.html
     ├── package.json
     ├── template.js            // pages模版快速生成脚本,执行命令 npm run tpl `文件名`
