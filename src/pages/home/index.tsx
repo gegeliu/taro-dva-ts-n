@@ -66,6 +66,7 @@ export default class Index extends Component<IProps,PageState> {
     this.props.dispatch({ 
       type : 'home/load'
     })
+    this.setState({count:this.state.count+1})
   }
 
   render () {

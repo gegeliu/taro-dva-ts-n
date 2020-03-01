@@ -13,7 +13,7 @@ export default {
         console.log("load flag " + flag)
        // const res = yield call(Api.demo, {});
        // console.log(res)
-        yield put({type:'save',payload:{flag:1}})
+        yield put({type:'save',payload:{flag:flag+1}})
       }
     },
 

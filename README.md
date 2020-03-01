@@ -1,6 +1,6 @@
 # 脚手架
 
-当前版本 2.0.1
+当前版本 2.0.3(与taro 版本保持一致)
 
 当前依赖 npm install -g @tarojs/cli@2.0.3
 
@@ -116,6 +116,8 @@ npm run tpl `文件名`
 ### Taro开发文档
 
 > https://nervjs.github.io/taro/docs/README.html
+
+> [Taro 更新日志](https://github.com/NervJS/taro/blob/2.x/CHANGELOG.md)
 
 ### dva开发文档地址
 
